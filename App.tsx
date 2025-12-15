@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import Landing from './components/landing';
+import Landing from './components/Landing';
 import Quiz from './components/Quiz';
 import Results from './components/Results';
 
