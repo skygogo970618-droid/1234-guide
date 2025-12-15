@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
-import Landing from './components/Landing';
-import Quiz from './components/Quiz';
-import Results from './components/Results';
+import Landing from './components/Landing.tsx';
+import Quiz from './components/Quiz.tsx';
+import Results from './components/Results.tsx';
 
 type ViewState = 'landing' | 'quiz' | 'results';
 
